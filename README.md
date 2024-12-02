@@ -217,4 +217,3 @@ docker-compose logs
 # View specific service logs
 docker-compose logs bet-maker
 docker-compose logs line-provider
-]
